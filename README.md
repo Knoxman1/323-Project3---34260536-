@@ -53,12 +53,28 @@ In summary, the implementation of design patterns like the Repository Pattern, D
 
 
 
+# Rferences 
+
+
+
 
 Khosravi, K. and Guéhéneuc, Y.G., 2004. A quality model for design patterns. German Industry Standard, 975.
-Cruz, A.A., Gomes, F.A., Cardoso, F.A., Martin, E.B. and Arantes, D.S., 2007, May. Development of a robust and flexible Weblab framework based on AJAX and design patterns. In Seventh IEEE International Symposium on Cluster Computing and the Grid (CCGrid'07) (pp. 811-816). IEEE.
-Guamán, D., Guamán, F., Jaramillo, D. and Correa, R., 2016. Implementation of techniques, standards and safety recommendations to prevent XSS and SQL injection attacks in Java EE RESTful applications. In New advances in information systems and technologies (pp. 691-706). Springer International Publishing.
+
+Cruz, A.A., Gomes, F.A., Cardoso, F.A., Martin, E.B. and Arantes, D.S., 2007, May. Development of a robust and flexible Weblab framework based on AJAX and design patterns. In 
+
+Seventh IEEE International Symposium on Cluster Computing and the Grid (CCGrid'07) (pp. 811-816). IEEE.
+
+Guamán, D., Guamán, F., Jaramillo, D. and Correa, R., 2016. Implementation of techniques, standards and safety recommendations to prevent XSS and SQL injection attacks in 
+
+Java EE RESTful applications. In New advances in information systems and technologies (pp. 691-706). Springer International Publishing.
+
+
 Jacobson, S.C., Hergenroder, R., Koutny, L.B., Warmack, R.J. and Ramsey, J.M., 1994. Effects of injection schemes and column geometry on the performance of microchip electrophoresis devices. Analytical Chemistry, 66(7), pp.1107-1113.
+
 KOLESÁR, B.M., CLOUD COMPUTING APPLICATION DESIGN PATTERNS.
+
 KOLESÁR, B.M., CLOUD COMPUTING APPLICATION DESIGN PATTERNS.
+
 Pandelidis, I. and Zou, Q., 1990. Optimization of injection molding design. Part I: Gate location optimization. Polymer Engineering & Science, 30(15), pp.873-882.
+
 Alsmadi, I., 2017. User Interface Design in Isolation from Underlying Code and Environment. In Design Solutions for User-Centric Information Systems (pp. 175-183). IGI Global.
